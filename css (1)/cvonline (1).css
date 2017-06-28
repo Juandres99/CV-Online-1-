@@ -1,0 +1,91 @@
+html {
+  background-image: url(https://s-media-cache-ak0.pinimg.com/originals/3f/e3/39/3fe339c35fd4da802cac507cd43342de.jpg);
+}
+
+#profilepicture {
+  height: 150px;
+  width: 150px;
+  margin: 10px 23px;
+}
+
+body {
+  width: 75%;
+  background: rgb(224, 153, 153);
+}
+ul {
+  padding-left: 0px;
+}
+li {
+  border-bottom: 2px solid black;
+  text-align: left;
+  list-style: none;
+}
+
+h2 {
+  color: black;
+  background: rgb(219, 10, 10);
+  font-family: times new roman, sans-serif;
+  font-weight: bold;
+  margin: 0px;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+#lista {
+  width: 20%;
+  float: left;
+  padding: 0px 5px;
+  border: 5px solid black;
+  border-radius: 15px;
+  background: rgb(208, 33, 33);
+}
+
+#cuerpo {
+  width: 75%;
+  float: right;
+  padding: 0px 5px;
+  opacity: 0.9;
+}
+
+#quien_soy {
+  background: rgb(208, 33, 33);
+  text-align: center;
+  padding: 25px;
+  border: 5px solid black;
+  border-radius: 15px;
+  margin: 20px 0px;
+}
+
+#formacion {
+  background: rgb(208, 33, 33);
+  text-align: center;
+  padding: 25px;
+  border: 5px solid black;
+  border-radius: 15px;
+  margin: 20px 0px;
+}
+
+#experiencia_laboral {
+  background: rgb(208, 33, 33);
+  text-align: center;
+  padding: 25px;
+  border: 5px solid black;
+  border-radius: 15px;
+  margin: 20px 0px;
+}
+
+#portfolio {
+  background: rgb(208, 33, 33);
+  text-align: center;
+  padding: 25px;
+  border: 5px solid black;
+  border-radius: 15px;
+  margin: 20px 0px;
+}
+
+.slider {
+  border-bottom: 2px solid black;
+}
